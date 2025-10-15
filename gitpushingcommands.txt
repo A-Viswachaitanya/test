@@ -1,0 +1,14 @@
+git init
+
+git add filename
+git add filename2
+git add filename3
+
+git commit -m "commit message"
+
+git branch -M main
+
+git remote add <https link>
+
+git push -u origin main
+
